@@ -7,4 +7,4 @@
 - **persian-diachrony** — word-by-word morphological annotation of the Ganjoor poetry corpus with language models; a diachronic record of verb roots, deverbals, tense-aspect-mood, Arabic loans and word formation, with a results explorer.
 - **persian-bookmap** — maps of Persian books through three independent lenses (meaning, style, prosody) over chunked texts: where the lenses agree, and where they do not.
 
-<p align="center"><sub>بن‌مایه: root, essence. The mark is the word بن, "root", growing its own roots.</sub></p>
+<p align="center" dir="ltr"><sub>The name <bdi>بن‌مایه</bdi> means root, essence; the mark is the word <bdi>بن</bdi>, "root", growing its own roots.</sub></p>
